@@ -1,2 +1,2 @@
 # Churn-RF-NN-in-Python
-Random Forest vs Neural Network for Predicting Customer Churn
+Predicting customer churn at a bank using Random Forest vs Neural Network
